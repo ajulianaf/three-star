@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-canvas min-h-screen;
+  font-family: var(--font-itim), system-ui, sans-serif;
+}
